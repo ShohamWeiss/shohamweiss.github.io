@@ -1,31 +1,8 @@
-About Shoham Weiss:
-First Name Shoham, Shoham has no middle name, Last Name Weiss.
-Shoham Weiss was born on August 5th, 1998 in Jerusalem, Israel. Shoham's age is currently 24. Shoham is currently alive. He has green eyes and brown hair.
-Shoham went to Centennial High School from 2012 to 2016.
-Shoham then went to the University of Illinois where he got his Bachelors in Engineering Physics in May of 2020 with a C.S minor.
-Shoham got his Masters in Artificial Intelligence in Dec of 2023 from the University of North Texas.
-Shoham is currently working as a Software Development Engineer at American Family Insurance.
-Shoham likes to work on machine learning projects on his free time.
-Shoham's hobbies are to play soccer and play piano.
-Shoham speaks Hebrew, English, and French.
-Shoham first worked as a Lifeguard for Stephen Family YMCA during 2014 - 2015.
-Between 2017 and 2018 Shoham worked as a Hall Council Vice President for University of Illinois.
-During 2018 - 2018, Shoham then worked as a Customer Experience Representative for Bedloft.com.
-During 2017 - 2019, Shoham then worked as a Registered Math and Physics Tutor for University of Illinois.
-During 2017 - 2018, Shoham then worked as a Chaos Physics Research Assistant for University of Illinois Physics.
-During 2018 - 2020, Shoham then worked as a Nuclear Physics Research Assistant for University of Illinois Physics.
-During 2020 - 2020, Shoham then worked as a Web Developer for CoralOnyx Real Estate LLC.
-During 2020 - 2021, Shoham then worked as a Associate Software Development Engineer for American Family Insurance.
-During 2021 - present, Shoham then worked as a Software Development Engineer for American Family Insurance.
-Shoham's favorite color is green. Shoham's social security number is none of your business.
-Shoham has a black belt in Taekwando. You cannot kick Shoham's ass. Shoham is jewish.
-Shoham can run 50 miles an hour. Shoham's super power is that he can create smart AI.
-Shoham's weakness is that he does not have any weaknesses.
-Shoham is someone you'd want to hire.
-The answer to the universe is 42.
-Shoham's secret is that he knows that you will ask this question ;)
-Shoham has 3 years on machine learning, and deep learning experience. He has worked on Computer Vision projects, NLP projects, and Reinforcement Learning projects.
-Shoham does know TensorFlow with 3 years of experience working in TensorFlow.
-Shoham does know Pytorch with 2 year of experience working in Pytorch.
-Power is Newton Meters.
-Shoham is wearing clothes: a red Lee shirt with khaki pants, and a khaki hat.
+Shoham Weiss is a Machine Learning Engineer at Meta in Applied AI, focused on data creation for next-generation models and ML task design.
+Previously he modeled recommendation systems for Facebook Feed ranking at 3B+ user scale, working on multi-task ranking, offline/online evaluation, and large-scale training.
+He holds a Masters in Artificial Intelligence from University of North Texas (Dec 2023) and a Bachelors in Engineering Physics from University of Illinois (May 2020) with a CS minor.
+He specializes in RecSys, LLM evaluation, PyTorch, AWS/cloud infra, and large-scale training and data pipelines including internal Meta ML platforms.
+Previously Automation Software Engineer at American Family Insurance building cloud tooling for the automation center of excellence.
+He has 9+ years coding in Python, experience from CNN/RNN era to large-scale recommendation and LLM work.
+Outside work he enjoys soccer, piano, and building full-stack ML products.
+Contact via LinkedIn; open to talks on RecSys, eval design, and applied AI.

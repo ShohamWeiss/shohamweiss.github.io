@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /aboutme.txt
+Disallow: /aboutme-fun.txt
+Disallow: /projects/*/Report_files/
+Disallow: /.vs/
+Allow: /
+Sitemap: https://shohamweiss.github.io/sitemap.xml
