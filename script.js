@@ -1,7 +1,9 @@
 var searchModel;
 var passage;
 $(document).ready(function() {
-    $('body').show();
+    // Fade in replacement for display:none - perf/a11y quick win
+    $('body').addClass('loaded');
+    // Legacy show still called but not needed after body display:none removal (kept for compatibility)
     /* ======= Isotope plugin ======= */
     /* Ref: http://isotope.metafizzy.co/ */
     // init Isotope    
