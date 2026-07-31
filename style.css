@@ -398,3 +398,11 @@ from, to { border-color: transparent }
 i {
     height: 30px;
 }
+/* Fade-in for perf/a11y fix - replaces body display:none */
+body {
+    opacity: 0;
+    transition: opacity 0.3s ease-in;
+}
+body.loaded {
+    opacity: 1;
+}
