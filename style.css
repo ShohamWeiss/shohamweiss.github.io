@@ -406,3 +406,9 @@ body {
 body.loaded {
     opacity: 1;
 }
+
+/* Hotfix: ensure loaded state is visible even if inline display:none leaked through */
+body.loaded {
+  opacity: 1 !important;
+  display: block !important;
+}
